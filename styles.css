@@ -2,8 +2,20 @@ h1{
 	text-align: center;
 	font-family: "Times New Roman";
 	font-weight: bold;
-	font-size: 4vw;
+	font-size: 4.5vw;
 }
 body{
-	background: url("chessboard.png") repeat repeat;
+	background-color: lightgreen;
+	font-family: "Georgia";
+	text-align: center;
+	font-size: 2vw
+}
+p{
+	text-align: center;
+	font-family: "Georgia";
+	text-align: center;
+	font-size: 2vw
+}
+a{
+	font-size: 2.5vw
 }

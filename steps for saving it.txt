@@ -1,0 +1,5 @@
+Open Terminal
+use "cd mcrob-chess"
+use "git add ."
+use git commit -m "(in here put an explanation of the changes)"
+Use "git push"
